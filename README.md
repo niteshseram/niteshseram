@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshseram&show_icons=true&hide_border=true" alt="Nitesh's github stats" />
 </a>
 <a href="https://github.com/niteshseram/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshseram&langs_count=8&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshseram&langs_count=5&layout=compact&hide_border=true" />
 </a>
 <!--
 **niteshseram/niteshseram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
