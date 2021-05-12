@@ -12,7 +12,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Spring Boot and Spring MVC
+- 🌱 I’m currently learning Java Full Stack with React
 - 💬 Ask me about anything [here](https://github.com/niteshseram/niteshseram/issues)
 
 
