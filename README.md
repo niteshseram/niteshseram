@@ -12,14 +12,14 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Java Full Stack with React
+- 🌱 I’m currently exploring Java Full Stack with React
 - 💬 Ask me about anything [here](https://github.com/niteshseram/niteshseram/issues)
 
 
 ### About Me 🚀
 🎓 Computer Science & Engineering graduate <br />
-👨‍💻 I am passionate about Web Development and I enjoy learning new technology <br />
-💻 I love working with Photoshop in my free time <br />
+👨‍💻 Always gravitated towards Web Development and enjoy learning new technology <br />
+💻 Love working with Photoshop in my free time <br />
 
 **Languages and Tools:**  
 
