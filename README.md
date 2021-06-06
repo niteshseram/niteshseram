@@ -18,7 +18,7 @@
 
 ### About Me 🚀
 🎓 Computer Science & Engineering graduate <br />
-👨‍💻 Always gravitated towards Web Development and enjoy learning new technology <br />
+👨‍💻 Always gravitated towards Web Development and enjoy learning new technologies <br />
 💻 Love working with Photoshop in my free time <br />
 
 **Languages and Tools:**  
