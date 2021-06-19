@@ -4,7 +4,7 @@
 🔭 I’m currently exploring the world of <strong>Open Source</strong> <br/>
 🌱 I'm currently learning <strong>Java Full Stack</strong> and also <strong>DevOps</strong> side by side <br/>
 🎓 Computer Science & Engineering graduate <br/>
-👨‍💻 Always gravitated towards <strong>Web Development</strong> and enjoy learning new technologies <br/>
+👨‍💻 Always gravitated towards <strong>Web Development</strong> and also enjoy learning new technologies <br/>
 💻 Love working with Photoshop in my free time <br />
 </p>
 
