@@ -1,11 +1,13 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitesh!](https://niteshseram.in) 
 <h2 align="center">About Me 🚀</h2>
-🔭I’m currently exploring the world of <strong>Open Source</strong> <br/>
+<p>
+- 🔭 I’m currently exploring the world of <strong>Open Source</strong> <br/>
 🌱I'm currently learning <strong>Java Full Stack</strong> and also <strong>DevOps</strong> side by side <br/>
 🎓 Computer Science & Engineering graduate <br/>
 👨‍💻 Always gravitated towards Web Development and enjoy learning new technologies <br/>
-💬 Ask Me About Anything here <br/>
+💬 Ask Me About Anything [here](https://niteshseram.in) <br/>
 💻 Love working with Photoshop in my free time <br />
+</p>
 <h2 align="center">
 Languages and Tools 💻
 </h2>
