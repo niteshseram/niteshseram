@@ -1,27 +1,14 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitesh!](https://niteshseram.in) 
-
-<a href="https://www.linkedin.com/in/niteshseram/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/niteshseram">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:niteshseram@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
-<br />
-
-- 🌱 I’m currently exploring Java Full Stack with React
-- 💬 Ask me about anything [here](https://github.com/niteshseram/niteshseram/issues)
-
-
-### About Me 🚀
-🎓 Computer Science & Engineering graduate <br />
-👨‍💻 Always gravitated towards Web Development and enjoy learning new technologies <br />
+<h2 align="center">About Me 🚀</h2>
+🔭I’m currently exploring the world of <strong>Open Source</strong> <br/>
+🌱I'm currently learning <strong>Java Full Stack</strong> and also <strong>DevOps</strong> side by side <br/>
+🎓 Computer Science & Engineering graduate <br/>
+👨‍💻 Always gravitated towards Web Development and enjoy learning new technologies <br/>
+💬 Ask Me About Anything here <br/>
 💻 Love working with Photoshop in my free time <br />
-
-## Languages and Tools:  
+<h2 align="center">
+Languages and Tools 💻
+</h2>
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,8 +23,9 @@
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
-## Streak Stats 🔥
+<h2 align="center">
+Streak Stats 🔥
+ </h2>
 <p align="center">
   <a href="https://github.com/niteshseram">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=niteshseram&theme=shades-of-purple" alt="Nitesh's Streak Stats" />
@@ -45,16 +33,23 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-## GitHub Profile Stats 💻
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Nitesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshseram&theme=shades-of-purple&show_icons=true&hide_border=true" alt="Nitesh's github stats" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Nitesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=niteshseram&langs_count=8&layout=compact&theme=shades-of-purple&hide_border=true" height="192px"/>
-</a>
+<details open="">
+  <summary>
+      GitHub Profile Stats <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  </summary
+   <br>
+   <br>
+   <br>
+   <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Nitesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshseram&theme=shades-of-purple&show_icons=true&hide_border=true" alt="Nitesh's github stats" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Nitesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=niteshseram&langs_count=8&layout=compact&theme=shades-of-purple&hide_border=true" height="192px"/>
+    </a>
+   <p>
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
-<br>
+</details>
 <br>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
