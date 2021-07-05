@@ -56,8 +56,4 @@ Streak Stats 🔥
    <p>
 <br/>
 </details>
-<br>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nitesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niteshseram&bg_color=2D2B55&color=F9CF00&line=A599E8&point=FFFFFF&" /></a>
 
