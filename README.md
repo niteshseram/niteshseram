@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nitesh!](https://niteshseram.in) 
+![](https://github.com/niteshseram/niteshseram/blob/main/banner.jpg)
 <h2 align="center">About Me 🚀</h2>
 <p>
 🔭 I’m currently exploring the world of <strong>Open Source</strong> <br/>
@@ -6,9 +6,10 @@
 🎓 Computer Science & Engineering graduate <br/>
 👨‍💻 Always gravitated towards <strong>Web Development</strong> and also enjoy learning new technologies <br/>
 💻 Love working with Photoshop in my free time <br />
+😄 Pronouns: He/Him <br/>
 </p>
 
-<h2 align="center">Connect with me 🚀</h2>
+<h2 align="center">Connect with me 🤝</h2>
 <p align ="center">
 <a href="https://linkedin.com/in/niteshseram"><img src="https://img.shields.io/badge/Linkedin-niteshseram-blue?logo=linkedin&style=for-the-badge"></a>
 <a href="https://twitter.com/niteshseram"><img src="https://img.shields.io/badge/TWITTER-niteshseram-blue?logo=twitter&style=for-the-badge"></a>
