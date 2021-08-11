@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/niteshseram/portfolio-v2/issues/5) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-2. ❗️ Opened issue [#4](https://github.com/niteshseram/portfolio-v2/issues/4) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-3. 🗣 Commented on [#29006](https://github.com/kubernetes/website/issues/29006) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#29306](https://github.com/kubernetes/website/issues/29306) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#29303](https://github.com/kubernetes/website/issues/29303) in [kubernetes/website](https://github.com/kubernetes/website)
+1. ❗️ Closed issue [#5](https://github.com/niteshseram/portfolio-v2/issues/5) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+2. 🎉 Merged PR [#6](https://github.com/niteshseram/portfolio-v2/pull/6) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+3. 💪 Opened PR [#6](https://github.com/niteshseram/portfolio-v2/pull/6) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+4. ❗️ Opened issue [#5](https://github.com/niteshseram/portfolio-v2/issues/5) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+5. ❗️ Opened issue [#4](https://github.com/niteshseram/portfolio-v2/issues/4) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
 <!--END_SECTION:activity-->
 
 
