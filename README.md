@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/niteshseram/portfolio-v2/issues/34) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-2. 🎉 Merged PR [#33](https://github.com/niteshseram/portfolio-v2/pull/33) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-3. 💪 Opened PR [#33](https://github.com/niteshseram/portfolio-v2/pull/33) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-4. ❗️ Closed issue [#26](https://github.com/niteshseram/portfolio-v2/issues/26) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-5. ❗️ Closed issue [#16](https://github.com/niteshseram/portfolio-v2/issues/16) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+1. 🗣 Commented on [#29523](https://github.com/kubernetes/website/issues/29523) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗️ Opened issue [#34](https://github.com/niteshseram/portfolio-v2/issues/34) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+3. 🎉 Merged PR [#33](https://github.com/niteshseram/portfolio-v2/pull/33) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+4. 💪 Opened PR [#33](https://github.com/niteshseram/portfolio-v2/pull/33) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+5. ❗️ Closed issue [#26](https://github.com/niteshseram/portfolio-v2/issues/26) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
 <!--END_SECTION:activity-->
 
 
