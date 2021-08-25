@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5971](https://github.com/kubernetes/community/issues/5971) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 💪 Opened PR [#5971](https://github.com/kubernetes/community/pull/5971) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#5970](https://github.com/kubernetes/community/issues/5970) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🗣 Commented on [#29526](https://github.com/kubernetes/website/issues/29526) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#29523](https://github.com/kubernetes/website/issues/29523) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#175](https://github.com/aws-amplify/amplify-ui/issues/175) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
+2. 🗣 Commented on [#5971](https://github.com/kubernetes/community/issues/5971) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 💪 Opened PR [#5971](https://github.com/kubernetes/community/pull/5971) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🗣 Commented on [#5970](https://github.com/kubernetes/community/issues/5970) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#29526](https://github.com/kubernetes/website/issues/29526) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
