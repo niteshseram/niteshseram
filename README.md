@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/niteshseram/portfolio-v2/issues/39) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-2. 🎉 Merged PR [#38](https://github.com/niteshseram/portfolio-v2/pull/38) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-3. ❗️ Closed issue [#31](https://github.com/niteshseram/portfolio-v2/issues/31) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-4. 💪 Opened PR [#38](https://github.com/niteshseram/portfolio-v2/pull/38) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
-5. 🎉 Merged PR [#37](https://github.com/niteshseram/portfolio-v2/pull/37) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+1. 🎉 Merged PR [#41](https://github.com/niteshseram/portfolio-v2/pull/41) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+2. ❗️ Closed issue [#39](https://github.com/niteshseram/portfolio-v2/issues/39) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+3. 💪 Opened PR [#41](https://github.com/niteshseram/portfolio-v2/pull/41) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+4. 🎉 Merged PR [#40](https://github.com/niteshseram/portfolio-v2/pull/40) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+5. 💪 Opened PR [#40](https://github.com/niteshseram/portfolio-v2/pull/40) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
 <!--END_SECTION:activity-->
 
 
