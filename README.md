@@ -62,11 +62,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1868](https://github.com/EddieHubCommunity/support/issues/1868) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#3](https://github.com/niteshseram/niteshseram/pull/3) in [niteshseram/niteshseram](https://github.com/niteshseram/niteshseram)
-3. 🗣 Commented on [#3](https://github.com/niteshseram/niteshseram/issues/3) in [niteshseram/niteshseram](https://github.com/niteshseram/niteshseram)
-4. 🎉 Merged PR [#9](https://github.com/niteshseram/Portfolio/pull/9) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
-5. 🎉 Merged PR [#49](https://github.com/niteshseram/portfolio-v2/pull/49) in [niteshseram/portfolio-v2](https://github.com/niteshseram/portfolio-v2)
+1. 🎉 Merged PR [#51](https://github.com/niteshseram/Portfolio/pull/51) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
+2. 🎉 Merged PR [#50](https://github.com/niteshseram/Portfolio/pull/50) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
+3. ❗️ Closed issue [#25](https://github.com/niteshseram/Portfolio/issues/25) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
+4. ❗️ Closed issue [#3](https://github.com/niteshseram/Portfolio/issues/3) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
+5. 💪 Opened PR [#50](https://github.com/niteshseram/Portfolio/pull/50) in [niteshseram/Portfolio](https://github.com/niteshseram/Portfolio)
 <!--END_SECTION:activity-->
 
 
