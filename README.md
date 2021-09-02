@@ -28,6 +28,7 @@ Languages and Tools 💻
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/Style-ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2D2B55)
+ ![](https://img.shields.io/badge/Style-StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2D2B55)
 </p>
 <h2 align="center">
 Streak Stats 🔥
