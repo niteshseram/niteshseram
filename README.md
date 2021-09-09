@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/niteshseram/niteshseram.in/issues/17) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-2. 🎉 Merged PR [#80](https://github.com/niteshseram/niteshseram.in/pull/80) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-3. 💪 Opened PR [#80](https://github.com/niteshseram/niteshseram.in/pull/80) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-4. 🎉 Merged PR [#79](https://github.com/niteshseram/niteshseram.in/pull/79) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-5. 💪 Opened PR [#79](https://github.com/niteshseram/niteshseram.in/pull/79) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+1. ❗️ Closed issue [#78](https://github.com/niteshseram/niteshseram.in/issues/78) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+2. 🎉 Merged PR [#81](https://github.com/niteshseram/niteshseram.in/pull/81) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+3. ❗️ Closed issue [#77](https://github.com/niteshseram/niteshseram.in/issues/77) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+4. 💪 Opened PR [#81](https://github.com/niteshseram/niteshseram.in/pull/81) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+5. ❗️ Closed issue [#17](https://github.com/niteshseram/niteshseram.in/issues/17) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
 <!--END_SECTION:activity-->
 
 
