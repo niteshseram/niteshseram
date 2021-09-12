@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#85](https://github.com/niteshseram/niteshseram.in/issues/85) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-2. 🗣 Commented on [#15042](https://github.com/eslint/eslint/issues/15042) in [eslint/eslint](https://github.com/eslint/eslint)
-3. ❗️ Opened issue [#85](https://github.com/niteshseram/niteshseram.in/issues/85) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-4. ❗️ Opened issue [#84](https://github.com/niteshseram/niteshseram.in/issues/84) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-5. 🎉 Merged PR [#83](https://github.com/niteshseram/niteshseram.in/pull/83) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+1. 🎉 Merged PR [#86](https://github.com/niteshseram/niteshseram.in/pull/86) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+2. ❗️ Closed issue [#84](https://github.com/niteshseram/niteshseram.in/issues/84) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+3. 💪 Opened PR [#86](https://github.com/niteshseram/niteshseram.in/pull/86) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+4. ❗️ Closed issue [#85](https://github.com/niteshseram/niteshseram.in/issues/85) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+5. 🗣 Commented on [#15042](https://github.com/eslint/eslint/issues/15042) in [eslint/eslint](https://github.com/eslint/eslint)
 <!--END_SECTION:activity-->
 
 
