@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/niteshseram/niteshseram.in/pull/102) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-2. 💪 Opened PR [#102](https://github.com/niteshseram/niteshseram.in/pull/102) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-3. 🎉 Merged PR [#101](https://github.com/niteshseram/niteshseram.in/pull/101) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-4. 💪 Opened PR [#101](https://github.com/niteshseram/niteshseram.in/pull/101) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-5. 🗣 Commented on [#29782](https://github.com/kubernetes/website/issues/29782) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#103](https://github.com/niteshseram/niteshseram.in/pull/103) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+2. 💪 Opened PR [#103](https://github.com/niteshseram/niteshseram.in/pull/103) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+3. 🎉 Merged PR [#102](https://github.com/niteshseram/niteshseram.in/pull/102) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+4. 💪 Opened PR [#102](https://github.com/niteshseram/niteshseram.in/pull/102) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+5. 🎉 Merged PR [#101](https://github.com/niteshseram/niteshseram.in/pull/101) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
 <!--END_SECTION:activity-->
 
 
