@@ -15,7 +15,6 @@ If you want to talk or ask me anything, feel free to connect over [Twitter](http
 
 
 ### Languages and Tools 💻
-
  
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2D2B55)
@@ -29,13 +28,8 @@ If you want to talk or ask me anything, feel free to connect over [Twitter](http
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2D2B55)
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Nitesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshseram&theme=shades-of-purple&show_icons=true&hide_border=true" alt="Nitesh's github stats" height="192px"/>
- </a>
-<p>
+<br />
+![](https://github-readme-stats.vercel.app/api?username=niteshseram&theme=shades-of-purple&show_icons=true&hide_border=true)
 
 
 
