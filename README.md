@@ -14,10 +14,9 @@
 
 If you want to talk or ask me anything, feel free to connect over [Twitter](https://twitter.com/niteshseram)
 
-</p>
-Languages and Tools 💻
-</h2>
-<p align="center">
+
+### Languages and Tools 💻
+
  
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2D2B55)
@@ -30,8 +29,8 @@ Languages and Tools 💻
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2D2B55)
- ![](https://img.shields.io/badge/StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2D2B55)
-</p>
+![](https://img.shields.io/badge/StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2D2B55)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
