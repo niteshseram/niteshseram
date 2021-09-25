@@ -2,9 +2,9 @@
 ### Hello there! 👋
 I am a Software Engineer and also an Open Source enthusiast. I really love tinkering around web development. 
 
+Visit my digital corner [niteshseram.in](https://niteshseram.in) to learn more about me.
 
 🔭 I’m currently exploring and trying to be active in <strong>Open Source</strong> <br/>
-🌱 I am always around React.js and Next.js <br/>
 🎓 Computer Science & Engineering graduate <br/>
 👨‍💻 Always gravitated towards <strong>Web Development</strong> and also enjoy learning new technologies <br/>
 💻 Love working with Photoshop in my free time <br />
