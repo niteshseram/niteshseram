@@ -29,6 +29,7 @@ If you want to talk or ask me anything, feel free to connect over [Twitter](http
 ![](https://img.shields.io/badge/ChakraUI-informational?style=flat&logo=chakraui&logoColor=white&color=2D2B55)
 ![](https://img.shields.io/badge/StyledComponents-informational?style=flat&logo=styled-components&logoColor=white&color=2D2B55)
 <br />
+
 ![](https://github-readme-stats.vercel.app/api?username=niteshseram&theme=shades-of-purple&show_icons=true&hide_border=true)
 
 
