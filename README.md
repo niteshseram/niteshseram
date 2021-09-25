@@ -1,4 +1,3 @@
-![Banner](https://github.com/niteshseram/niteshseram/blob/main/banner.jpg)
 <h2>About Me 🚀</h2>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-niteshseram-informational?style=flat&logo=twitter&logoColor=white&color=2D2B55)](https://twitter.com/niteshseram)
