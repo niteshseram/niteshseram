@@ -61,11 +61,11 @@ Streak Stats 🔥
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/niteshseram/niteshseram.in/issues/104) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
-2. 🗣 Commented on [#293](https://github.com/EddieHubCommunity/LinkFree/issues/293) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. ❗️ Opened issue [#308](https://github.com/EddieHubCommunity/LinkFree/issues/308) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#307](https://github.com/EddieHubCommunity/LinkFree/pull/307) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#306](https://github.com/EddieHubCommunity/LinkFree/issues/306) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#105](https://github.com/niteshseram/niteshseram.in/issues/105) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+2. ❗️ Opened issue [#104](https://github.com/niteshseram/niteshseram.in/issues/104) in [niteshseram/niteshseram.in](https://github.com/niteshseram/niteshseram.in)
+3. 🗣 Commented on [#293](https://github.com/EddieHubCommunity/LinkFree/issues/293) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. ❗️ Opened issue [#308](https://github.com/EddieHubCommunity/LinkFree/issues/308) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#307](https://github.com/EddieHubCommunity/LinkFree/pull/307) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 
