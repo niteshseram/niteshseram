@@ -1,15 +1,15 @@
-<h2>About Me 🚀</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-niteshseram-informational?style=flat&logo=twitter&logoColor=white&color=2D2B55)](https://twitter.com/niteshseram)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-niteshseram-informational?style=flat&logo=linkedin&logoColor=white&color=2D2B55)](https://www.linkedin.com/in/niteshseram/)
-<p>
-🔭 I’m currently exploring the world of <strong>Open Source</strong> <br/>
-🌱 I'm currently learning <strong>Java Full Stack</strong> and also <strong>DevOps</strong> side by side <br/>
+### Hello there! 👋
+I am a Software Engineer and also an Open Source enthusiast. I really love tinkering around web development. 
+
+
+🔭 I’m currently exploring and trying to be active in <strong>Open Source</strong> <br/>
+🌱 I am always around React.js and Next.js <br/>
 🎓 Computer Science & Engineering graduate <br/>
 👨‍💻 Always gravitated towards <strong>Web Development</strong> and also enjoy learning new technologies <br/>
 💻 Love working with Photoshop in my free time <br />
 😄 Pronouns: He/Him <br/>
-</p>
+
 
 If you want to talk or ask me anything, feel free to connect over [Twitter](https://twitter.com/niteshseram)
 
