@@ -1,5 +1,5 @@
 
-### Hello there! 👋
+### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a Software Engineer and also an Open Source enthusiast. I really love tinkering around web development. 
 
 🔭 I’m currently exploring and trying to be active in <strong>Open Source</strong> <br/>
